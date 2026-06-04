@@ -1,0 +1,1 @@
+.\PARim.exe .\test
